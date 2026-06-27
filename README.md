@@ -1,5 +1,5 @@
 ### 株価ダッシュボード 一覧
-- [① 証券コード1000番台（主要ETF含む）はこちら](stock_charts_dashboard_1000s.html)
+- [① 証券コード1000番台（8つの主要ETF含む）はこちら](stock_charts_dashboard_1000s.html)
 - [② 証券コード2000番台はこちら](stock_charts_dashboard_2000s.html)
 - [③ 証券コード3000番台はこちら](stock_charts_dashboard_3000s.html)
 - [④ 証券コード4000番台はこちら](stock_charts_dashboard_4000s.html)
@@ -8,4 +8,4 @@
 - [⑦ 証券コード7000番台はこちら](stock_charts_dashboard_7000s.html)
 - [⑧ 証券コード8000番台はこちら](stock_charts_dashboard_8000s.html)
 - [⑨ 証券コード9000番台はこちら](stock_charts_dashboard_9000s.html)
-- [⑩ 主要ETFはこちら](stock_charts_dashboard_etfs.html)
+- [⑩ 8つの主要ETFはこちら](stock_charts_dashboard_etfs.html)
