@@ -1,4 +1,3 @@
-# -kabuka-kou1491858
 ### 株価ダッシュボード 一覧
 - [① 証券コード1000番台はこちら](stock_charts_dashboard_1000s.html)
 - [② 証券コード2000番台はこちら](stock_charts_dashboard_2000s.html)
