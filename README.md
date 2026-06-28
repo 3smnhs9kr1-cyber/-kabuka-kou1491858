@@ -1,5 +1,5 @@
 ### 株価ダッシュボード 一覧
-- print:"証券コードで探す"
+<span style="font-size:18px;color🐦‍⬛;">証券コードで探す</span>
 - [① 証券コード1000番台（8つの主要ETF含む）はこちら](stock_charts_dashboard_1000s20260628.html)
 - [② 証券コード2000番台はこちら](stock_charts_dashboard_2000s20260628.html)
 - [③ 証券コード3000番台はこちら](stock_charts_dashboard_3000s20260628.html)
